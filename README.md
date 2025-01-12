@@ -1,4 +1,4 @@
 - 👋 Hi, I’m vishruth
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Full stack development(ReactJS,NodeJS,Javascript)
-- 📫 How to reach me @vishruth5757@gmail.com
+- 📫 How to reach me @madavishruthreddy@gmail.com
